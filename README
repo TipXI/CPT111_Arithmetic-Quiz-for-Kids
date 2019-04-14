@@ -1,0 +1,21 @@
+CPT111 - Arithmetic Quiz for Kids
+
+This is a console-based arithmetic quiz application for kids, developed for the CPT111/CPM111 - Principles of Programming course at Universiti Sains Malaysia.
+
+The program is designed to help children practice addition, subtraction, and multiplication with numbers from 1 to 10.
+
+Features
+
+Random Question Generation: Creates unique arithmetic problems (addition, subtraction, or multiplication) on the fly.
+
+Positive Answers: The logic ensures that all questions, especially subtraction, result in a positive answer.
+
+Multiple Choice: Presents four randomly generated, reasonable choices for each question.
+
+Randomized Answer Placement: The correct answer is placed randomly among the 'a', 'b', 'c', or 'd' options.
+
+Instant Feedback: The program tells the user immediately if their answer is correct.
+
+Session Control: The user can answer as many questions as they like and stop the session at any time.
+
+Final Summary: At the end of the session, the user receives a summary of their performance, including the percentage of correct answers and other feedback.

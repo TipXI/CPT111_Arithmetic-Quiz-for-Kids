@@ -1,0 +1,18 @@
+# Compiled executable
+*.exe
+*.out
+*.o
+*.a
+
+# Object files
+*.o
+*.obj
+
+# Dependency directories
+/build/
+/bin/
+
+# Personal editor files
+.vscode/
+*.swp
+*.swo
